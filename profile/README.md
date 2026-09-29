@@ -43,11 +43,15 @@
 
 我们鼓励成员进入自己熟悉的方向，也鼓励跨越原有边界，与其他领域的人合作。
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Mathematics · 数学
 
 关注数学理论及其与计算、科学和工程之间的联系。
 
-包括但不限于：
+**包括但不限于：**
 
 - 优化与数值计算
 - 拓扑与拓扑数据分析
@@ -55,11 +59,14 @@
 - 数学软件与计算工具
 - 数学与 AI、量化等方向的交叉研究
 
+</td>
+<td width="50%" valign="top">
+
 ### Artificial Intelligence · 人工智能
 
 关注现代人工智能系统及其基础方法。
 
-包括但不限于：
+**包括但不限于：**
 
 - Machine Learning
 - Deep Learning
@@ -67,12 +74,17 @@
 - Scientific AI
 - AI Infrastructure
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### Algorithms · 算法
 
 关注计算问题的结构、效率和工程实现。
 
-包括但不限于：
+**包括但不限于：**
 
 - 数据结构与算法
 - 优化算法
@@ -81,12 +93,14 @@
 - 算法工程
 - 竞赛算法与理论计算
 
+</td>
+<td width="50%" valign="top">
 
 ### Quantitative Research · 量化
 
 关注数学、统计、计算机科学与金融市场之间的交叉。
 
-包括但不限于：
+**包括但不限于：**
 
 - Quantitative Research
 - 时间序列分析
@@ -95,12 +109,17 @@
 - 投资组合优化
 - 风险建模
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### Frontend & Product · 前端
 
 关注现代 Web 技术、产品工程与人机交互。
 
-包括但不限于：
+**包括但不限于：**
 
 - Web Development
 - React / Next.js
@@ -108,12 +127,14 @@
 - Developer Tools
 - Scientific Visualization
 
+</td>
+<td width="50%" valign="top">
 
 ### Robotics · 机器人
 
 关注软件、算法、控制与物理世界之间的连接。
 
-包括但不限于：
+**包括但不限于：**
 
 - Robotics
 - Computer Vision
@@ -121,6 +142,10 @@
 - Motion Planning
 - Control
 - Autonomous Systems
+
+</td>
+</tr>
+</table>
 
 ---
 
