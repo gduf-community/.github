@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://avatars.githubusercontent.com/u/284588133?v=4" alt="GDUF Community" width="104" height="104">
@@ -269,4 +269,3 @@
 <sub>Frontier · Interdisciplinary · Open</sub>
 
 </div>
-```
